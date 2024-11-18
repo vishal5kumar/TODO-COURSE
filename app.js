@@ -18,6 +18,8 @@ function addTodo(event) {
     if (todoInput.value.trim() === "") { 
         return;
     }
+
+    console.log("Test")
         
 
      //todo div
